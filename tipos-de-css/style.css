@@ -1,0 +1,44 @@
+	* {
+		/* * = todos os elementos*/
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+	.card {
+		width: 500px;
+		height: fit-content;
+		background-color: #ffffff;
+		border-radius: 10px;
+		border: solid 3px #0a0d5b;
+		margin: 20px;
+		padding: 10px 20px;
+	}
+
+	.foto {
+		width: 100px;
+		height: 100px;
+		border-radius: 50%;
+		padding: 10px
+	}
+
+	img {
+		width: 100%;
+		height: 100%;
+		margin-top: 0px;
+	}
+
+	.titulo {
+		font-size: 30px;
+
+	}
+
+	.textoEnfase {
+		color: #0a0d5b;
+	}
+
+	.estiloFonte {
+		font-style: italic;
+	}
+	
+	p {
+		font-size: 15px;
+	}
